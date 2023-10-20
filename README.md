@@ -1,4 +1,16 @@
 # Yolov5 for Oriented Object Detection
+https://i7y.org/en/yolov5-with-oriented-bounding-box/
+https://github.com/saktheeswaranswan/yolov5-ob-monk-branch-2
+https://github.com/ultralytics/ultralytics/issues/4242
+https://docs.ultralytics.com/datasets/obb/dota-v2/#dataset-yaml
+https://docs.ultralytics.com/datasets/obb/
+https://captain-whu.github.io/DOTA/dataset.html
+https://github.com/ultralytics/ultralytics/issues/624
+https://github.com/lilanxiao/Rotated_IoU
+https://github.com/open-mmlab/mmrotate
+annotation obb tools
+https://github.com/saktheeswaranswan/obb-monk-oriented-bounding-boxes-yolo-label-angle-annotation-tool-yolo
+https://github.com/saktheeswaranswan/obb-yolo-monk-oriented-bounding-angle-bounding-boxes-yolo-annotation
 ![图片](./docs/detection.png)
 ![train_batch0.jpg](./docs/train_batch6.jpg)
 ![results.png](./docs/results.png)
